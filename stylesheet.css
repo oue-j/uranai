@@ -1,0 +1,94 @@
+body {
+    font-family: "Avenir Next";
+    font-size: 22px
+
+}
+
+.page{
+    width: 80%;
+    margin:0 auto;
+    max-width: 500px;
+}
+
+.title {
+    background-color: bisque;
+    padding: 6px 15px
+}
+
+.title-kagi {
+    color:black;
+}
+
+.title-jigoku{
+    color:red
+}
+
+.title-kyusai{
+    color:blue;
+}
+
+.top-img{
+    width: 500px;
+}
+
+.jigoku-img{
+    width: 500px;
+}
+
+.section-1 {
+    font-size: 25px;
+    font-weight: bold
+}
+
+.blue {
+    color:blue
+}
+
+.kiken {
+    font-size: 25px;
+    font-weight: bold;
+    color:red;
+}
+
+.renai {
+    font-size: 25px;
+    font-weight: bold;
+    color: blue;
+}
+
+.title-2 {
+    background-color: bisque;
+    padding: 6px 15px
+}
+
+.jigoku2 {
+    width: 500px;
+}
+
+.futoji {
+    font-weight: bold;
+}
+
+.deka {
+    font-size:larger
+}
+
+.are {
+    width: 500px;
+}
+
+.graph {
+    
+    width: 430px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.yajirusi {
+    text-align: center;
+}
+
+video {
+    width: 400px;
+    margin-left: 50px;
+}
