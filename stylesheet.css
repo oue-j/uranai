@@ -40,7 +40,7 @@ body {
 .top-img{
     max-width: 100%; /* 親要素の幅に合わせる */
     height: auto;    /* アスペクト比を保つ */
-    min-width: 370px; /* 最小幅を指定（適当なサイズに調整）*/
+    min-width: 300px; /* 最小幅を指定（適当なサイズに調整）*/
     display: block; /* インライン要素からブロック要素に変更 */
     margin: auto;    /* 左右のマージンをautoに設定 */
 }
@@ -48,7 +48,7 @@ body {
 .jigoku-img{
     max-width: 100%; /* 親要素の幅に合わせる */
     height: auto;    /* アスペクト比を保つ */
-    min-width: 370px; /* 最小幅を指定（適当なサイズに調整）*/
+    min-width: 300px; /* 最小幅を指定（適当なサイズに調整）*/
     display: block; /* インライン要素からブロック要素に変更 */
     margin: auto;    /* 左右のマージンをautoに設定 */
 }
@@ -82,7 +82,7 @@ body {
 .jigoku2 {
     max-width: 100%; /* 親要素の幅に合わせる */
     height: auto;    /* アスペクト比を保つ */
-    min-width: 370px; /* 最小幅を指定（適当なサイズに調整）*/
+    min-width: 300px; /* 最小幅を指定（適当なサイズに調整）*/
     display: block; /* インライン要素からブロック要素に変更 */
     margin: auto;    /* 左右のマージンをautoに設定 */
 }
@@ -98,7 +98,7 @@ body {
 .are {
     max-width: 100%; /* 親要素の幅に合わせる */
     height: auto;    /* アスペクト比を保つ */
-    min-width: 370px; /* 最小幅を指定（適当なサイズに調整）*/
+    min-width: 300px; /* 最小幅を指定（適当なサイズに調整）*/
     display: block; /* インライン要素からブロック要素に変更 */
     margin: auto;    /* 左右のマージンをautoに設定 */
 }
@@ -109,7 +109,7 @@ body {
     margin-bottom: 40px;
     max-width: 100%; /* 親要素の幅に合わせる */
     height: auto;    /* アスペクト比を保つ */
-    min-width: 370px; /* 最小幅を指定（適当なサイズに調整）*/
+    min-width: 300px; /* 最小幅を指定（適当なサイズに調整）*/
     display: block; /* インライン要素からブロック要素に変更 */
     margin-left: auto;    /* 左右のマージンをautoに設定 */
     margin-right: auto;
@@ -122,7 +122,7 @@ body {
 video {
     max-width: 50%; /* 親要素の幅に合わせる */
     height: auto;    /* アスペクト比を保つ */
-    min-width: 370px; /* 最小幅を指定（適当なサイズに調整）*/
+    min-width: 300px; /* 最小幅を指定（適当なサイズに調整）*/
     display: block; /* インライン要素からブロック要素に変更 */
     margin: auto;    /* 左右のマージンをautoに設定 */
 }
